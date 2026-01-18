@@ -81,7 +81,7 @@ The **Detailed Dashboard** drills deeper into **what drives profitability**, foc
 ### 📸 Detailed Dashboard Preview
 
 ```md
-![Detailed Performance Dashboard](images/detailed-dashboard.png)
+![Detailed Performance Dashboard](https://github.com/Danieltech1026/Adventure-Works-Sales-Profit-Analysis/blob/main/3.0.png?raw=true)
 ```
 
 ---
