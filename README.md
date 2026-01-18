@@ -48,7 +48,7 @@ The **Time Analysis Dashboard** serves as the primary entry point into the analy
 ### 📸 Time Analysis Dashboard Preview
 
 ```md
-![Time Analysis Dashboard]([4.0.png](https://github.com/Danieltech1026/Adventure-Works-Sales-Profit-Analysis/blob/main/4.0.png)
+![Time Analysis Dashboard]([4.0.png](https://github.com/Danieltech1026/Adventure-Works-Sales-Profit-Analysis/blob/main/4.0.png?raw=true)
 ```
 
 ---
