@@ -179,12 +179,3 @@ All metrics dynamically respond to filters applied across dashboards.
 
 ---
 
-## ✅ Conclusion
-
-This project demonstrates the ability to perform **end-to-end business analytics using Microsoft Excel**, from data transformation and modeling to advanced calculations and interactive dashboards. The analysis delivers clear insights into **profit drivers, time-based trends, and business performance**.
-
----
-
-## 📬 Feedback
-
-Feedback and suggestions are welcome. This project is part of a continuous effort to refine analytics, modeling, and data storytelling skills.
