@@ -47,9 +47,10 @@ The **Time Analysis Dashboard** serves as the primary entry point into the analy
 
 ### 📸 Time Analysis Dashboard Preview
 
-```md
+
 ![Time Analysis Dashboard](images/time-analysis-dashboard.png)
-```
+
+
 
 ---
 
