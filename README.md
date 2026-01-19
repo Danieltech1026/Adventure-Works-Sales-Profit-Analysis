@@ -81,9 +81,9 @@ The **Detailed Dashboard** drills deeper into **what drives profitability**, foc
 
 ### 📸 Detailed Dashboard Preview
 
-```md
-![Time Analysis Dashboard](https://raw.githubusercontent.com/Danieltech1026/Adventure-Works-Sales-Profit-Analysis/main/3.0.png)
-```
+
+![Detailed Performance Dashboard](images/detailed-dashboard.png)
+
 
 ---
 
@@ -107,9 +107,9 @@ This structure supports all time-based, product-level, and regional analysis acr
 
 ### 📸 ER Diagram
 
-```md
+
 ![ER Diagram](images/er-diagram.png)
-```
+
 
 ---
 
